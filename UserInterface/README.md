@@ -1,27 +1,21 @@
-## XpressSwap Interface
+## PatexSwap Interface
 
-An open source interface for XpressSwap -- a protocol for decentralized exchange on Mantle Network.
+An open source interface for PatexSwap -- a protocol for decentralized exchange on Patex Blockchain.
 
 Enabling users to:
 
-- Add and remove their liquidity positions on XpressSwap protocol
-- Swap tokens on XpressSwap protocol
+- Add and remove their liquidity positions on PatexSwap protocol
+- Swap tokens on PatexSwap protocol
 
 Future Plans:
 
 - Add the functinality of Farming, Staking and Limit Orders
 
-## Deploying the XpressSwap on local machine
+### 💻 Deploying the PatexSwap on local machine
 
 Clone the repository
 
-move into the mantle Directory
-
-```sh
-cd mantle
-```
-
-move into the UserInterface Directory
+After cloning the repository, move into the UserInterface Directory
 
 ```sh
 cd UserInterface
@@ -66,3 +60,4 @@ or
 
 npm run build
 ```
+** Note: node version = 14.21.3
